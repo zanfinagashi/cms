@@ -1,0 +1,10 @@
+ul.nav li.dropdown:hover ul.dropdown-menu {display: block;}
+ul.nav li:hover {background-color: #FFFACD  ;}
+h1 a {display: inline-block; background: url('../../public_html/img/peace.png'); background-repeat: no-repeat; height: 70px; padding: 20px 0 0 90px; color: black; }
+h1 a hover{text-decoration: none; color: black;}
+h2 a {color: black; }
+h1,h2,h3{ font-family:  Georgia, Serif; }
+p.pubdateP{font-style:italic; font-size: 0.9em;}
+
+.sidebar h3{font-size: 1.2em; line-height: 1.2em; margin-bottom: 0; }
+.sidebar ul{margin-left: 0; list-style-type: none; }
